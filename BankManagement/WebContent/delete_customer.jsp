@@ -7,7 +7,7 @@
 <title>Delete Customer</title>
 <link href="css/style.css" rel="stylesheet" media="all">
 </head>
-<body>
+<body> 
 <div>
 		<jsp:include page="header.jsp"></jsp:include>
 	</div>
